@@ -25,7 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
-      <p className="read-the-docs">sourav with archu😍 Jaldi baha heijao🥰 sure heijiba.</p>
+      <p className="read-the-docs">sourav with Archana😍 Jaldi baha heijao🥰 sure heijiba.</p>
     </>
   );
 }
