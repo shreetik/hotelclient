@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        sourav with archu😍 Jaldi baha heijao🥰 sure heijiba.Gurantee
+        Sourav ❤💕 Archu
       </p>
     </>
   );
