@@ -3,7 +3,8 @@ import Index from "./pages/Index";
 import Login from "./pages/Login";
 import Layout from "./Layout";
 import Register from "./pages/Register";
-
+import axios from "axios";
+axios.defaults.baseURL = "http://localhost:4001";
 function App() {
   return (
     <div>
