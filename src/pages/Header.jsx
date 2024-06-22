@@ -31,7 +31,7 @@ function Header() {
           </span>
         </a>
 
-        <div className="flex gap-2 border border-gray-300 rounded-full py-2 px-4 shadow-md shawdow-gray-300 ">
+        <div className="flex items-center gap-2 border border-gray-300 rounded-full py-2 px-4 shadow-md shawdow-gray-300 ">
           <div>Anywhere</div>
           <div className="border-l border-gray-300"></div>
           <div>Anyweek</div>
